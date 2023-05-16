@@ -1,0 +1,108 @@
+/*body{
+    background:#54756a;
+    height: 70vh;
+    font-family: poppins;
+
+}
+.container{
+    margin-top: 5%;
+}*/
+.slidehead h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: aero;
+    text-align: center;
+}
+.img-text{
+    width: 100%;
+    height: 300px;
+    display: block;
+    text-align: center;
+    padding: 40% 5%;
+    background: #262626;
+    color: #fff;
+    border-radius: 15px;
+
+
+}
+.img-text h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+.img-text p{
+    font-size: 14px;
+}
+.single-box{
+    position: relative;
+    margin-bottom: 30px;
+} 
+.img-area{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border: 5px solid #fff;
+    overflow: hidden;
+    top: 15px;
+    left: 125px;
+    border-radius: 50%;
+}
+.img-area img{
+    width: 100%;
+}
+.carousel-indicators{
+    left: 0;
+    top: auto;
+    bottom: -70px;
+}
+.carousel-indicators li{
+    background: #000;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;   
+}
+.carousel-indicators :active{
+    background: #fff;
+}
+
+/**cards**/
+#card-packages{
+    background-color: ;
+    padding: 30px 0px;
+}
+#card-packages h1{
+    font-weight: 900;
+    font-size: 34px;
+    padding-bottom: 5px;
+}
+.title{
+    text-align: center;
+    padding: 25px 0px;
+}
+.title p{
+    font-size: 18px;
+}
+.card-body{
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
+}
+.card-text{
+    font-family: 'aero';
+    
+}
+.card{
+    margin: 20px 10px;
+}
+.card-body a{
+    color: #0c7f90;
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: auto;
+    font-weight: 600;
+
+}
+.card-body a :hover{
+    color: #63a6b0;
+    text-decoration: none;
+}
